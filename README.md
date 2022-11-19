@@ -3,7 +3,7 @@
 
 - I’m currently learning **Deep learning**
 
-- All of my projects are available at [https://github.com/ranga4all1/my_projects](https://github.com/ranga4all1/projects)
+- All of my projects are available at [https://github.com/ranga4all1?tab=repositories](https://github.com/ranga4all1?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@ranga4all1_/](https://medium.com/@ranga4all1_/)
 
