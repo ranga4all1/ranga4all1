@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm R.H</h1>
+<h1 align="center">Hi, I'm R.H</h1>
 <h3 align="center">AI/DL/ML enthusiast</h3>
 
-- 🌱 I’m currently learning **Deep learning**
+- I’m currently learning **Deep learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ranga4all1/my_projects](https://github.com/ranga4all1/my_projects)
+- All of my projects are available at [https://github.com/ranga4all1/my_projects](https://github.com/ranga4all1/projects)
 
 - 📝 I regularly write articles on [https://medium.com/@ranga4all1_/](https://medium.com/@ranga4all1_/)
 
-- 💬 Ask me about **ML, DL, Python, R**
+- 💬 Ask me about **DL, ML, Python**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
