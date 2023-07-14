@@ -1,7 +1,7 @@
 <h1 align="center">Ranga Hande</h1>
 <h3 align="center">Data Analyst</h3>
 
-[Email](mailto:ranga4all1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rangahande/) | [GitHub](https://github.com/rangahande) | [Tableau Public](https://public.tableau.com/profile/rangahande) | [Medium](https://medium.com/@ranga4all1_/)
+[Email](mailto:ranga4all1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ranga-hande-5528886/) | [GitHub](https://github.com/ranga4all1) | [Tableau Public](https://public.tableau.com/app/profile/r.h1008) | [Medium](https://medium.com/@ranga4all1_/)
 
 Results-oriented technology professional focused on Data Analytics. Highly effective at working with cross-functional teams to accomplish projects on-time and according to constraints.
 ## Skills
