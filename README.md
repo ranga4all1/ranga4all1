@@ -11,7 +11,7 @@ Results-oriented technology professional focused on Data Analytics. Highly effec
 - Python - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Project, Product, and People Management
 ## Projects
-- All projects available at: [GitHub](https://github.com/rangahande](https://github.com/ranga4all1)
+- All projects available at: [GitHub](https://github.com/ranga4all1)
 ## Blog posts
 
 - I regularly write articles on: [Medium](https://medium.com/@ranga4all1_/)
