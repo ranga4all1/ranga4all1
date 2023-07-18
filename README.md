@@ -1,5 +1,5 @@
 <h1 align="center">Ranga Hande</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst | Python, Pandas, SQL, Data Visualization-Tableau | Data Scientist</h3>
 
 [Email](mailto:ranga4all1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ranga-hande) | [GitHub](https://github.com/ranga4all1) | [Tableau Public](https://public.tableau.com/app/profile/r.h1008) | [Medium](https://medium.com/@ranga4all1_/) | [Portfolio](https://www.datascienceportfol.io/Ranga4all1)
 
